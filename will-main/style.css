@@ -1,0 +1,24 @@
+
+#section-1{
+    height: 600px;
+    background: rgb(0, 0, 0);
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#section-1 h1{
+    text-align: center;
+    color: white;
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bg-image {
+    background-image: url('./public/pexels-bri-schneiter-28802-346529.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  

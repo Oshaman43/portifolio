@@ -1,0 +1,11 @@
+main {
+    background: black;
+  }
+  
+  .bg-image {
+    background-image: url('./public/pexels-bri-schneiter-28802-346529.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
